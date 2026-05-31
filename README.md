@@ -13,3 +13,7 @@ The app is built with Gradio and deployed on Hugging Face Spaces.
 - fastai
 - Gradio
 - Hugging Face Spaces
+
+## Usage
+Upload an image of a burger or pizza and the model will predict which one it is.
+The model was only trained on burgers and pizzas, so other foods may give unexpected results.
